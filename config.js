@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Gửi Mimi của tớ",
     introTitle: 'Mimi yêu dấu',
-    introDesc: `Anh không định xin em tha thứ ngay, chỉ mong một ngày em thấy anh khác – người mà lẽ ra anh phải là từ đầu.`,
+    introDesc: `Anh không định xin em tha thứ ngay, chỉ mong một ngày em thấy sự thay đổi của anh – người mà lẽ ra anh phải làm từ đầu.`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng Eiuu đã yêu tha lỗi cho a 🥰',
     desc: 'Thoát web là chấp nhận tha lỗi rồi nhé!!!',
